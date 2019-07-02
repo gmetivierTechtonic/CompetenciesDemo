@@ -1,0 +1,6 @@
+/Users/gracemetivier/Projects/ColorGuessing/ColorGuessingGame/bin/Debug/ColorGuessingGame.exe
+/Users/gracemetivier/Projects/ColorGuessing/ColorGuessingGame/bin/Debug/ColorGuessingGame.pdb
+/Users/gracemetivier/Projects/ColorGuessing/ColorGuessingGame/obj/x86/Debug/ColorGuessingGame.csprojAssemblyReference.cache
+/Users/gracemetivier/Projects/ColorGuessing/ColorGuessingGame/obj/x86/Debug/ColorGuessingGame.csproj.CoreCompileInputs.cache
+/Users/gracemetivier/Projects/ColorGuessing/ColorGuessingGame/obj/x86/Debug/ColorGuessingGame.exe
+/Users/gracemetivier/Projects/ColorGuessing/ColorGuessingGame/obj/x86/Debug/ColorGuessingGame.pdb
