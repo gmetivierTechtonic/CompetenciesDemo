@@ -1,0 +1,1 @@
+SELECT * FROM Graces_Campsites.Camping;

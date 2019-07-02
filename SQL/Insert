@@ -1,0 +1,3 @@
+Inserting more campgrounds to the database:
+
+INSERT INTO Camping (`SiteName`, `IsItLocal`, `IsHikingAvailable`, `Campground`, `DispersedCamping`) VALUES ('Indian Peaks Wilderness', '1', '1', '0', '1');

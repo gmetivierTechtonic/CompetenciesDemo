@@ -1,0 +1,11 @@
+CREATE TABLE `Graces_Campsites`.`Camping` (
+  `SiteName` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`SiteName`),
+  UNIQUE INDEX `idCamping_UNIQUE` (`SiteName` ASC) VISIBLE);
+
+ALTER TABLE `Graces_Campsites`.`Camping` 
+ADD COLUMN `IsItLocal` VARCHAR(45) BINARY NOT NULL AFTER `SiteName`,
+ADD COLUMN `IsHikingAvailable` VARCHAR(45) BINARY NOT NULL AFTER `IsItLocal`,
+ADD COLUMN `HikingMileage` VARCHAR(45) NULL DEFAULT 0 AFTER `IsHikingAvailable`,
+ADD COLUMN `Campground` VARCHAR(45) BINARY NOT NULL AFTER `HikingMileage`,
+ADD COLUMN `DispersedCamping` VARCHAR(45) BINARY NOT NULL AFTER `Campground`;

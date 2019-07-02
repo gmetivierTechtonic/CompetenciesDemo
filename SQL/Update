@@ -1,0 +1,3 @@
+UPDATE Camping
+SET SiteName = "Brainard Lake"
+WHERE SiteName = "BrainardLake";

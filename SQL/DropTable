@@ -1,0 +1,15 @@
+------------------------------
+
+DROP TABLE `CampSiteWishList`;
+
+--------------------------------
+
+ALTER TABLE `Graces_Campsites`.`Camping` 
+DROP COLUMN `HikingMileage`;
+
+------------------------------------------
+
+ALTER TABLE `Graces_Campsites`.`Camping` 
+DROP INDEX `idCamping_UNIQUE` ;
+;
+
